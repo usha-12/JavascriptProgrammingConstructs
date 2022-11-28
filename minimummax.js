@@ -24,3 +24,5 @@
         min = digit5;
     console.log("MAX: "+max);
     console.log("MIN: "+min);
+/*Write a program that reads 5 Random 3 Digit values and then outputs the minimum
+and the maximum value*/
